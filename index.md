@@ -24,8 +24,7 @@
 - Enhanced the Quicksight dashboard with real-time sentiment insights derived from the analyzed tweets.
 
   
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+<img src="images/Dashboard for Quicksight.png?raw=true"/ >
 
 
 [Retail Analytics (Power BI, Python)](https://www.linkedin.com/in/arunabho-kanti-som/details/projects/)
@@ -44,9 +43,11 @@
 - Conducted in-depth analytical reviews to discern the potential correlations between employee churn and factors.
 - Utilized classical machine learning methodologies, such as Logistic Regression, Random Forest, and Gradient Boost Classifier, ensuring robust and comprehensive model testing.
 - Enhanced prediction accuracy by integrating Deep Learning techniques and Neural Network models, ensuring model validation through these advanced methodologies.
-<img src="images/Retail Analytic.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
+
+<img src="images/ec4.png?raw=true"/>
+<img src="images/ec2.png?raw=true"/>
+<img src="images/ec3.png?raw=true"/>
+<img src="images/employee1.png?raw=true"/>
 
 ---
 [Loan Repayment Status Analytics and Insight (SQL, Machine Learning, Python (https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
@@ -54,7 +55,7 @@
 -	Observed a fluctuation in total outstanding loan amounts, with a notable decrease in July followed by an increase surpassing June's figures.
 -	Provided insights through pie charts showing the percentage distribution of Delinquent and Written-off loans relative to current loans.
 -	Examined loan statuses across different channels, highlighting the absence of retail loan information.
-<img src="images/Random Forest AOC.png?raw=true"/>
+<img src="images/Loan Data.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://www.linkedin.com/in/arunabho-kanti-som/details/projects/)
