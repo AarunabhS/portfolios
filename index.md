@@ -22,9 +22,8 @@
 - Stored predictions in AWS S3 and maneuvered Athena to craft sophisticated SQL queries.
 - Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
 - Enhanced the Quicksight dashboard with real-time sentiment insights derived from the analyzed tweets.
-
   
-<img src="images/Dashboard for Quicksight.png?raw=true"/ >
+<img src="images/Dashboard for Quicksight.png?raw=true"/>
 
 
 [Retail Analytics (Power BI, Python)](https://www.linkedin.com/in/arunabho-kanti-som/details/projects/)
