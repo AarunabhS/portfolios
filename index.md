@@ -50,7 +50,7 @@
 <img src="images/employee1.png?raw=true"/>
 
 ---
-[Loan Repayment Status Analytics and Insight (SQL, Machine Learning, Python (https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
+[Loan Repayment Status Analytics and Insight (SQL, Machine Learning, Python)](https://www.linkedin.com/in/arunabho-kanti-som/details/projects/)
 -	Analyzed loan status over time, noting a lower quantity of write-offs and delinquent loans compared to current loans, indicating positive financial health.
 -	Observed a fluctuation in total outstanding loan amounts, with a notable decrease in July followed by an increase surpassing June's figures.
 -	Provided insights through pie charts showing the percentage distribution of Delinquent and Written-off loans relative to current loans.
