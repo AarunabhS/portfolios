@@ -16,7 +16,7 @@
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
 
-[Twitter Sentiment Analysis (PySpark, DataGrip, AWS, Athena, Quicksight)](https://www.linkedin.com/in/arunabho-kanti-som/details/projects/)
+[Twitter Sentiment Analysis (PySpark, DataGrip, AWS, Athena, Quicksight)](https://github.com/AarunabhS/SentimentAnalysis)
 - Leveraged Twitter APIs to capture tweets during Black Friday 2022, and processed data using Spark ML on Databricks.
 - Implemented NLP and trained models with Logistic Regression and Random Forest for sentiment classification (91% accuracy).
 - Stored predictions in AWS S3 and maneuvered Athena to craft sophisticated SQL queries.
